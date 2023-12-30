@@ -15,7 +15,7 @@ seaborn
 You can install these libraries via pip:
 
 # Dataset
-For this analysis, a transactional dataset (CSV file) containing information about customer purchases is used. The analysis focuses on the itemDescription column to identify the top 20 most purchased items.
+For this analysis, a transactional dataset (CSV file) containing information about customer purchases is used. The analysis focuses on the itemDescription column to identify the top 50 most purchased items.
 
 # Results
-The code snippet generates a horizontal bar plot showcasing the top 20 most purchased items based on their frequency in the dataset.
+The code snippet generates a horizontal bar plot showcasing the top 50 most purchased items based on their frequency in the dataset.
